@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Logistic Regression on Titanic Dataset: A Practical Walkthrough
+title: "Logistic Regression on Titanic Dataset: A Practical Walkthrough"
 date: 2024-04-27 10:00 +0000
 last_modified_at: 2024-04-27 10:00 +0000
 tags: [machine learning, logistic regression, data science, titanic]
 toc: true
+
 ---
 
 Understanding how logistic regression works in practice is essential for any aspiring data scientist. In this post, we walk through a hands-on project using the Titanic dataset to predict passenger survival.
